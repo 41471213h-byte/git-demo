@@ -1,4 +1,3 @@
-printf("fuck you")
 // basic.h - Basic 3x3 Matrix Operations
 // Author: 41471214h_ruby
 
