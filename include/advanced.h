@@ -1,5 +1,3 @@
-// advanced.h - Determinant & Adjoint Matrix operations
-
 #ifndef ADVANCED_H
 #define ADVANCED_H
 
@@ -12,5 +10,3 @@ float determinant(Matrix3x3 A);
 Matrix3x3 adjoint(Matrix3x3 A);
 
 #endif
-
-
