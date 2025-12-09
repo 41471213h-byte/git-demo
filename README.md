@@ -36,5 +36,6 @@ printf("\n=== INVERSE OPERATIONS ===\n");
     }
 
  return 0;
+ 
 }
 
